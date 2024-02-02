@@ -1,0 +1,73 @@
+[
+    {
+        "type": "wall",
+        "x": 0,
+        "y": 0,
+        "width": 10,
+        "height": 300
+    },
+    {
+        "type": "wall",
+        "x": 1465,
+        "y": 0,
+        "width": 15,
+        "height": 300
+    },
+    {
+        "type": "wall",
+        "x": 0,
+        "y": 220,
+        "width": 160,
+        "height": 20
+    },
+    {
+        "type": "wall",
+        "x": 0,
+        "y": 85,
+        "width": 160,
+        "height": 20
+    },
+    {
+        "type": "wall",
+        "x": 625.3,
+        "y": 122.95081967213115,
+        "width": 397.75,
+        "height": 73.7704918032787
+    },
+    {
+        "type": "wall",
+        "x": 1439.3,
+        "y": 122.95081967213115,
+        "width": 500,
+        "height": 73.7704918032787
+    },
+    {
+        "type": "Rail_wall",
+        "x": 0,
+        "y": 0,
+        "width": 1480,
+        "height": 47
+    },
+    {
+        "type": "Rail_wall",
+        "x": 0,
+        "y": 275,
+        "width": 1480,
+        "height": 250
+    },
+    {
+        "type": "bench",
+        "x": 1191.4,
+        "y": 152.45901639344262,
+        "width": 98.05000000000001,
+        "height": 17.21311475409836
+    },
+    {
+        "type": "spawning rectangle",
+        "x": 150,
+        "y": 122,
+        "width": 20,
+        "height": 80,
+        "weight": 1
+    }
+]
